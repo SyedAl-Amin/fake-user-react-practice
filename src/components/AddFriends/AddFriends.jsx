@@ -2,26 +2,30 @@ import React, { useEffect, useState } from 'react';
 import Friend from '../Friend/Friend';
 import './AddFriends.css';
 import userData from '../../user.json';
+import Cart from '../Cart/Cart';
 
 const AddFriends = () => {
   const [users, setUsers] = useState([]);
+  const [friends, setFriends] = useState([]);
 
   useEffect(() => {
     setUsers(userData);
   }, []);
 
+  const handleAddBtn = (friend) => {
+    const newFriend = [...friends, friend];
+    setFriends(newFriend);
+  };
+
   return (
     <div className="AddFriends container">
       <div className="friend-content">
         {users.map((user) => (
-          <Friend user={user} key={user.id} />
+          <Friend user={user} handleAddBtn={handleAddBtn} key={user.id} />
         ))}
       </div>
       <div className="friend-count">
-        llll Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni
-        reprehenderit exercitationem animi. Quasi aperiam maiores similique,
-        iusto ut impedit accusamus voluptate ratione labore, inventore, odio
-        porro totam mollitia? Amet, similique.
+        <Cart friends={friends} />
       </div>
     </div>
   );

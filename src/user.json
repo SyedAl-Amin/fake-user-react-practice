@@ -5,6 +5,7 @@
     "username": "Bret",
     "email": "Sincere@april.biz",
     "img": "https://i.ibb.co/3MHKVDt/man-1.jpg",
+    "salary": 123,
     "address": {
       "street": "Kulas Light",
       "suite": "Apt. 556",
@@ -29,6 +30,7 @@
     "username": "Antonette",
     "email": "Shanna@melissa.tv",
     "img": "https://i.ibb.co/M1kYpYz/man-2.jpg",
+    "salary": 854,
     "address": {
       "street": "Victor Plains",
       "suite": "Suite 879",
@@ -53,6 +55,7 @@
     "username": "Samantha",
     "email": "Nathan@yesenia.net",
     "img": "https://i.ibb.co/mNxkLbd/man-3.jpg",
+    "salary": 985,
     "address": {
       "street": "Douglas Extension",
       "suite": "Suite 847",
@@ -77,6 +80,7 @@
     "username": "Karianne",
     "email": "Julianne.OConner@kory.org",
     "img": "https://i.ibb.co/DKQYjgk/man-4.jpg",
+    "salary": 752,
     "address": {
       "street": "Hoeger Mall",
       "suite": "Apt. 692",
@@ -101,6 +105,7 @@
     "username": "Kamren",
     "email": "Lucio_Hettinger@annie.ca",
     "img": "https://i.ibb.co/vzCLbdw/man-5.jpg",
+    "salary": 1265,
     "address": {
       "street": "Skiles Walks",
       "suite": "Suite 351",
@@ -125,6 +130,7 @@
     "username": "Leopoldo_Corkery",
     "email": "Karley_Dach@jasper.info",
     "img": "https://i.ibb.co/ZhyDxz0/man-6.jpg",
+    "salary": 698,
     "address": {
       "street": "Norberto Crossing",
       "suite": "Apt. 950",
@@ -149,6 +155,7 @@
     "username": "Elwyn.Skiles",
     "email": "Telly.Hoeger@billy.biz",
     "img": "https://i.ibb.co/Km9ZV3M/man-7.jpg",
+    "salary": 1425,
     "address": {
       "street": "Rex Trail",
       "suite": "Suite 280",
@@ -173,6 +180,7 @@
     "username": "Maxime_Nienow",
     "email": "Sherwood@rosamond.me",
     "img": "https://i.ibb.co/Jj6DsD0/man-8.jpg",
+    "salary": 369,
     "address": {
       "street": "Ellsworth Summit",
       "suite": "Suite 729",
@@ -197,6 +205,7 @@
     "username": "Delphine",
     "email": "Chaim_McDermott@dana.io",
     "img": "https://i.ibb.co/0sxDrWD/man-9.jpg",
+    "salary": 859,
     "address": {
       "street": "Dayna Park",
       "suite": "Suite 449",
@@ -221,6 +230,7 @@
     "username": "Moriah.Stanton",
     "email": "Rey.Padberg@karina.biz",
     "img": "https://i.ibb.co/txqhqkC/man-10.jpg",
+    "salary": 753,
     "address": {
       "street": "Kattie Turnpike",
       "suite": "Suite 198",
@@ -245,6 +255,7 @@
     "username": "Dmksj.Ston",
     "email": "Hey.Klserg@karina.biz",
     "img": "https://i.ibb.co/CPFFjcr/man-11.jpg",
+    "salary": 785,
     "address": {
       "street": "Kattie Turnpike",
       "suite": "Suite 198",
@@ -269,6 +280,7 @@
     "username": "Opsiah.Jstnton",
     "email": "Met.Posberg@karina.biz",
     "img": "https://i.ibb.co/Zc9RsCH/man-12.jpg",
+    "salary": 456,
     "address": {
       "street": "Kattie Turnpike",
       "suite": "Suite 198",
@@ -293,6 +305,7 @@
     "username": "Ujss.Wert",
     "email": "Unks.Poserg@karina.biz",
     "img": "https://i.ibb.co/F66X51F/man-13.jpg",
+    "salary": 987,
     "address": {
       "street": "Kattie Turnpike",
       "suite": "Suite 198",
@@ -317,6 +330,7 @@
     "username": "Asdf.Stanton",
     "email": "Sdfd.Padberg@karina.biz",
     "img": "https://i.ibb.co/Vt92q5N/man-14.jpg",
+    "salary": 256,
     "address": {
       "street": "Kattie Turnpike",
       "suite": "Suite 198",
@@ -341,6 +355,7 @@
     "username": "Iussf.Tjsjf",
     "email": "Los.Lkfdjf@karina.biz",
     "img": "https://i.ibb.co/Lx04YMc/man-15.jpg",
+    "salary": 478,
     "address": {
       "street": "Kattie Turnpike",
       "suite": "Suite 198",

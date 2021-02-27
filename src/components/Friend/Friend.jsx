@@ -4,7 +4,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUserPlus } from '@fortawesome/free-solid-svg-icons';
 
 const Friend = (props) => {
-  const { name, username, email, phone, img } = props.user;
+  const { name, username, email, phone, salary, img } = props.user;
+  const handleAddBtn = props.handleAddBtn;
 
   return (
     <div className="Friend">
@@ -17,9 +18,9 @@ const Friend = (props) => {
         <p>email: {email}</p>
         <p>{phone}</p>
         <div className="selery-btn">
-          <span>$12586</span>
-          <button>
-            <FontAwesomeIcon icon={faUserPlus} /> Add
+          <span>${salary}</span>
+          <button type="button" onClick={() => handleAddBtn(props.user)}>
+            <FontAwesomeIcon icon={faUserPlus} /> Add Friend
           </button>
         </div>
       </div>
