@@ -13,3 +13,9 @@
 .friend-count {
   position: sticky;
 }
+
+@media (max-width: 1120px) {
+  .friend-content {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
